@@ -5,26 +5,6 @@
       "userName": "lSkywalker0504@gmail.com",
       "password": "ubrurb483ofbso39fn",
       "admin": false
-    },
-    {
-      "firstName": "Leia",
-      "lastName": "Organa",
-      "userName": "loOrganna056483@gmail.com",
-      "password": "ubrurbwe8r3rhfio&ei39n",
-      "admin": false
-    },
-    {
-      "firstName": "Padme",
-      "lastName": "Amadalla",
-      "userName": "senateMember3892@gmail.com",
-      "password": "iLoveAnakin1234",
-      "admin": true
-    },
-    {
-      "firstName": "Anakin",
-      "lastName": "Skywalke",
-      "userName": "iLovePadme@833729gmail.com",
-      "password": "48482920384",
-      "admin": true
     }
+    
   ]
